@@ -3,9 +3,9 @@
   
   <img src="https://assets.dio.me/edWxcdumDa-fk1QfOovjY_yYhaudgnoQvlUpyhpV8zg/f:webp/h:120/q:80/L3RyYWNrcy9kNTJiNzBiOC04MjE0LTQ0ZGQtYTlmNC05MmE0OGRjNzk4MTgucG5n" alt="Logo DIO" width="120"/>
 
-  <h1 style="color:white; font-size:2.5em; margin-top:15px;">
-    Simulador de Corridas do Mario Kart com <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="120"/> 🏎️🍄
-  </h1>
+  <h2 style="color:white; font-size:2.5em; margin-top:15px;">
+    Simulador de Corridas do Mario Kart com NodeJS🏎️🍄
+  </h2>
 
 </div>
 
