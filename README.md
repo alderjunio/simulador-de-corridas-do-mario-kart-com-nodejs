@@ -35,5 +35,5 @@ git clone https://github.com/alderjunio/simulador-de-corridas-do-mario-kart-com-
 cd simulador-de-corridas-do-mario-kart-com-nodejs
 
 # Execute o simulador
-npm start
+npm start ou node src/index.js
 
